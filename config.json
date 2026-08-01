@@ -1,0 +1,74 @@
+{
+    "F35VT-19-PUS12KEE031U-REV1.6-TMS320F280XX.hex": {
+        "mcu": "TMS320F28023PTT",
+        "programmer": "DSLite (TI)"
+    },
+    "F50VT-19-CJZ-PUS18KEE073U.REV1.6-MOTER.TYPE.DC.EPROMFILE.bin": {
+        "mcu": "SPI/I2C EEPROM (24xx)",
+        "programmer": "CH341 Direct EEPROM"
+    },
+    "HAV-BLDC-8PV V2 INDOR-R5F104BA-FM.hex": {
+        "mcu": "R5F100FEA",
+        "programmer": "Renesas Flash Programmer (RFP)"
+    },
+    "MITE50AP-LU-3S-RN.MOTER.TYPE.DC.REV1.1-EPROMFILE.bin": {
+        "mcu": "SPI/I2C EEPROM (24xx)",
+        "programmer": "CH341 Direct EEPROM"
+    },
+    "MITE50AP-LU-3S-RN.MOTER.TYPE.DC.REV1.1-TMS320F280XX.hex": {
+        "mcu": "TMS320F28023PTT",
+        "programmer": "DSLite (TI)"
+    },
+    "MITE72AB-GD-19-KTN150D42UFZ.GMCC.MOTER.TYPE.DC.EPROMFILE.bin": {
+        "mcu": "SPI/I2C EEPROM (24xx)",
+        "programmer": "CH341 Direct EEPROM"
+    },
+    "MITE72AB-GD-19-REV1.2-TMS320F280XX": {
+        "mcu": "TMS320F28023PTT",
+        "programmer": "DSLite (TI)"
+    },
+    "MITE72AP.19 REV.1.2.hex": {
+        "mcu": "TMS320F28023PTT",
+        "programmer": "DSLite (TI)"
+    },
+    "MITE72HV-3SECO-GM.KTN130D42UFZ.GMCC.MOTER.TYPE.AC.EPROMFILE.bin": {
+        "mcu": "SPI/I2C EEPROM (24xx)",
+        "programmer": "CH341 Direct EEPROM"
+    },
+    "MITE72HV-3SECO-GM.KTN130D42UFZ.GMCC.MOTER.TYPE.AC.TMS320F280XX.hex": {
+        "mcu": "TMS320F28023PTT",
+        "programmer": "DSLite (TI)"
+    },
+    "MITE50CM.CARRIAR.MOTRE,TYPE.DC.EPROMFILE": {
+        "mcu": "TMS320F28023PTT",
+        "programmer": "DSLite (TI)"
+    },
+    "MITE50CM.CARRIAR.TMS320F280XX": {
+        "mcu": "TMS320F28023PTT",
+        "programmer": "DSLite (TI)"
+    },
+    "YF50BS6.IGBT.REV1.7.TMS320280XX": {
+        "mcu": "TMS320F28023PTT",
+        "programmer": "DSLite (TI)"
+    },
+    "YF50BS-B3S-WF.KSN108D22UFE.GMCC.MOTER.TYPE.AC.bin": {
+        "mcu": "SPI/I2C EEPROM (24xx)",
+        "programmer": "CH341 Direct EEPROM"
+    },
+    "F50HV-3S-ECO.KSN108D22UFZ.GMCC.MOTER.TYPE.AC.EPROMFILE.bin": {
+        "mcu": "SPI/I2C EEPROM (24xx)",
+        "programmer": "CH341 Direct EEPROM"
+    },
+    "F50HV-3S-ECO.REV1.6.TMS320F280XX.hex": {
+        "mcu": "TMS320F28023PTT",
+        "programmer": "DSLite (TI)"
+    },
+    "VOLTAS.V2.0.1.MCU.FLASH.MOTER.TYPE.AC.IMC300X.IN": {
+        "mcu": "IMC300A",
+        "programmer": "J-Link (SEGGER)"
+    },
+    "flash_cmd.jlink": {
+        "mcu": "IMC300A",
+        "programmer": "J-Link (SEGGER)"
+    }
+}
